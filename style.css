@@ -1,0 +1,53 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+.container{
+    background-color: blanchedalmond;
+    padding: 100px;
+    color: darksalmon;
+    text-align: center;
+}
+#joke{
+    background-color: darksalmon;
+    padding: 20px;
+    border: 2px solid brown;
+    color: blanchedalmond;
+    text-wrap: wrap;
+    justify-content: center;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
